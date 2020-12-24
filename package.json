@@ -1,6 +1,6 @@
 {
   "name": "@kenrick95/repo-tagged-caret",
-  "version": "1.0.0-delta.42",
+  "version": "1.0.0--echo.42",
   "main": "index.js",
   "license": "MIT",
   "description": "The latest version is a tagged version"
